@@ -20,10 +20,10 @@ Mi objetivo es construir soluciones tecnológicas de alto impacto, escalables y 
 ## 🌱 Actualmente aprendiendo
 - **Rocketbot**: Automatización de procesos mediante bots.
 
-## 📬 ¿Cómo contactarme?
+<!-- ## 📬 ¿Cómo contactarme?
 - **Correo electrónico:** [juandavidmunozsotelo7@gmail.com](mailto:juandavidmunozsotelo7@gmail.com)
 - **LinkedIn:** [Juan David Muñoz](https://www.linkedin.com/in/juandamunozs/)
-- **GitHub:** [@Juandamunozs](https://github.com/Juandamunozs)
+- **GitHub:** [@Juandamunozs](https://github.com/Juandamunozs) -->
 
 ## 🔧 Proyectos destacados
 ### [**Sistema de Centro Cultural (Kotlin)**](https://github.com/Juandamunozs/sistemaCentroCultural)  
