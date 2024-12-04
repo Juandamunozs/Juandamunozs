@@ -1,4 +1,4 @@
-# ¡Hola! Soy Juan David Muñoz 👋
+# ¡Holi! 
 
 Soy un **desarrollador** apasionado por las **tecnologías de la información**, con experiencia en **frontend** utilizando **Angular** y **Vue.js**, y en **backend** trabajando con **FastAPI**, **Node.js** y **SpringBoot**.
 
