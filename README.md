@@ -7,6 +7,7 @@ Soy un **desarrollador** apasionado por las **tecnologías de la información**.
 ## 🌱 **Actualmente aprendiendo**
 
 - ![Rocketbot](https://img.shields.io/badge/Rocketbot-009C8C?logo=rocketbot&logoColor=white)
+- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 
 ---
 
