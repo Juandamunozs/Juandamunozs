@@ -22,8 +22,6 @@ Soy un **desarrollador** apasionado por las **tecnologías de la información**.
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 - ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-- ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=.net&logoColor=white)
 
 ### **Bases de datos**:
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
