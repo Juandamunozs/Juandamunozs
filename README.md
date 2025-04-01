@@ -9,6 +9,7 @@ Soy un **desarrollador** apasionado por las **tecnologías de la información**.
 - ![Rocketbot](https://img.shields.io/badge/Rocketbot-009C8C?logo=rocketbot&logoColor=white)
 - ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ---
 
 ## 🛠🚀 **Conocimientos**
