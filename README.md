@@ -5,34 +5,35 @@ Soy un **desarrollador** apasionado por las **tecnologías de la información**.
 ---
 
 ## 🌱 **Actualmente aprendiendo**
-
 - ![Rocketbot](https://img.shields.io/badge/Rocketbot-009C8C?logo=rocketbot&logoColor=white)
-- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ---
 
 ## 🛠🚀 **Conocimientos**
 
-### **Frontend**:
+### **Frontend**
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 
-### **Backend**:
+### **Backend**
 - ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 - ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
-### **Bases de datos**:
+### **Automatización & test**
+- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+
+### **Bases de datos**
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
-### **Herramientas**:
+### **Herramientas**
 - ![VSCode](https://img.shields.io/badge/Tools-vscode-blue?logo=visual-studio-code&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/Platform-GitHub-181717?logo=github&logoColor=white)
 
-### **Sistemas Operativos**:
+### **Sistemas Operativos**
 - ![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)
 
 ---
