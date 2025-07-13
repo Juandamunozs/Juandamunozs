@@ -26,6 +26,7 @@ Soy un **desarrollador** apasionado por las **tecnologías de la información**.
 
 ### **Bases de datos**:
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ### **Herramientas**:
 - ![VSCode](https://img.shields.io/badge/Tools-vscode-blue?logo=visual-studio-code&logoColor=white)
