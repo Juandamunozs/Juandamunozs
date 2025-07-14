@@ -23,7 +23,7 @@ Soy un **desarrollador** apasionado por las **tecnologías de la información**.
 - ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 
 ### **Movil**
-- ![Kotlin + Selenium](https://img.shields.io/badge/Kotlin%20%2B%20Selenium-43B02A?logo=selenium&logoColor=white)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 
 ### **Automatización & test**
 - ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
