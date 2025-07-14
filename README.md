@@ -6,7 +6,6 @@ Soy un **desarrollador** apasionado por las **tecnologías de la información**.
 
 ## 🌱 **Actualmente aprendiendo**
 - ![Rocketbot](https://img.shields.io/badge/Rocketbot-009C8C?logo=rocketbot&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 - ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ---
 
@@ -14,6 +13,7 @@ Soy un **desarrollador** apasionado por las **tecnologías de la información**.
 
 ### **Frontend**
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 
 ### **Backend**
@@ -21,6 +21,9 @@ Soy un **desarrollador** apasionado por las **tecnologías de la información**.
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 - ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+### **Movil**
+- ![Kotlin + Selenium](https://img.shields.io/badge/Kotlin%20%2B%20Selenium-43B02A?logo=selenium&logoColor=white)
 
 ### **Automatización & test**
 - ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
