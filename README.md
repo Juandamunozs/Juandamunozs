@@ -27,8 +27,10 @@ Soy un **desarrollador** apasionado por las **tecnologías de la información**.
 
 ### **Automatización & test**
 - ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+- ![UiPath](https://img.shields.io/badge/UiPath-FF6C37?logo=uipath&logoColor=white)
 
 ### **Bases de datos**
+- ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
